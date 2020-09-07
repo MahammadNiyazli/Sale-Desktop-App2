@@ -1,0 +1,8 @@
+dao\impl\SoldGoodsDaoImpl.class
+dao\inter\SoldGoodsDaoInter.class
+dao\inter\OnHandGoodsDaoInter.class
+entity\OnHandGoods.class
+entity\SoldGoods.class
+main\AbstractDAO.class
+main\Context.class
+dao\impl\OnHandGoodsDaoImpl.class
